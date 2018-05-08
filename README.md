@@ -1,4 +1,4 @@
-# CRUD Example with Spring Boot, Spring Validation, Spring Data Mongo, , MongoDB, Maven.
+# CRUD Example with Spring Boot, Spring Validation, Spring Data Mongo, MongoDB, Restful API
 
 ## Prerequisites
 - JDK 1.7 or later
